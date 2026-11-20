@@ -1,5 +1,5 @@
 #  Cheesera
-> **WARNING!** This app is an old version of the V2 cheesera app which is now called (cheesera). You'll find the new repo at ...
+> **WARNING!** This app is an old version of the V2 cheesera app which is now called (cheesera). You'll find the new repo at https://github.com/Frahnek2/cheesera
 
 **Cheesera** is a hybrid mobile photography application for iOS and Android that combines real-time **Fujifilm Film Simulation recipes**, **AI-powered scene detection**, and a retro **Disposable Camera experience**.
 
